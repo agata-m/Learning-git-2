@@ -18,6 +18,14 @@
   },
   "homepage": "https://github.com/agata-m/learning-git-2#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.5"
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.5",
+    "nu-html-checker": "^0.1.0"
+  },
+  "dependencies": {
+    "brew": "0.0.8",
+    "install": "^0.12.2",
+    "vnu": "0.0.1",
+    "vnu-jar": "^18.11.5"
   }
 }
