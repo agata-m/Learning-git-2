@@ -1,0 +1,20 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "link to page: https://agata-m.github.io/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agata-m/learning-git-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agata-m/learning-git-2/issues"
+  },
+  "homepage": "https://github.com/agata-m/learning-git-2#readme"
+}
